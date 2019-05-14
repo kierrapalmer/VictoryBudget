@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">VictoryBudget</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monthly_savings">Monthly Savings</string>
+    <string name="emergency_fund">Emergency Fund:</string>
+    <string name="retirement">Retirement</string>
+    <string name="other_savings">Other Savings</string>
+    <string name="monthly_expenses">Monthly Expenses</string>
+    <string name="housing_rent_taxes_etc">Housing(rent, taxes, etc.)</string>
+    <string name="utilities_water_power_internet_etc">Utilities(water, power, internet, etc.)</string>
+    <string name="food_groceries_dining_out_etc">Food(groceries, dining out, etc.)</string>
+    <string name="other_shopping_non_food_items_clothing_jewelry">Other Shopping(non-food items, clothing, jewelry)</string>
+    <string name="phone_bill">Phone Bill</string>
+    <string name="subscriptions_netflix_amazon_prime_magazines">Subscriptions(Netflix, Amazon Prime, Magazines)</string>
+    <string name="miscellaneous_charity_hobbies_childcare_etc">Miscellaneous(Charity, Hobbies, Childcare etc.)</string>
+    <string name="insurance">Insurance</string>
+    <string name="auto_insurance">Auto Insurance</string>
+    <string name="health_insurance_health_life_etc">Health Insurance(Health, Life, etc.)</string>
+    <string name="loans">Loans</string>
+    <string name="auto_loan">Auto Loan</string>
+    <string name="student_loan">Student Loan</string>
+    <string name="other_loan">Other Loan</string>
+    <string name="transportation">Transportation(public transportation, gas, etc.)</string>
+    <string name="tuition">Tuition</string>
+    <string name="_0">0</string>
+    <string name="maintenance">Maintenance(car, house, etc)</string>
+    <string name="pet_care_shots_boarding_etc">Pet Care(shots, boarding, etc.)</string>
+    <string name="vacation">Vacation</string>
+    <string name="other">Other</string>
+    <string name="income">Income</string>
+    <string name="other_monthly_income">Other Monthly Income(child support, disability, etc.)</string>
+    <string name="big_time_expenses">Big Time Expenses</string>
+    <string name="monthly_pay">Monthly Pay</string>
+    <string name="big_time_monthly">Monthly Big Time Expense Contribution</string>
+    <string name="monthly_income">Monthly Income</string>
+    <string name="recalculate_budget">Recalculate Budget</string>
+    <string name="budget_calculator">Budget Calculator</string>
+    <string name="dollar_sign">$</string>
+</resources>
